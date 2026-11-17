@@ -1,0 +1,12 @@
+{
+  "gates": {"max_count_mismatches": 0, "max_window_violations": 0, "max_missing_windows": 0},
+  "periods": [
+    {"id": "oct-week-2", "label": "Oct 6-12", "events": [
+      {"type": "lead", "id": "L1", "ts": "Oct 6"}, {"type": "lead", "id": "L2", "ts": "Oct 8"},
+      {"type": "lead", "id": "L2", "ts": "Oct 8"}, {"type": "lead", "id": "L3", "ts": "Oct 11"},
+      {"type": "lead", "id": "L4", "ts": "Oct 13"}]},
+    {"id": "oct-week-3", "label": "Oct 13-19", "events": [
+      {"type": "lead", "id": "L4", "ts": "Oct 13"}, {"type": "lead", "id": "L5", "ts": "Oct 15"},
+      {"type": "lead", "id": "L6", "ts": "Oct 19"}]}
+  ]
+}
